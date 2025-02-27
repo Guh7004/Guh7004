@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**Guh7004/Guh7004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Gustavo Chauki 🚀
 
-Here are some ideas to get you started:
+💻 Programador Front-End | Aprendendo JavaScript & React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente desenvolvendo projetos com HTML e CSS, enquanto mergulho no mundo do JavaScript e React. Sempre em busca de novos desafios e aprendizado contínuo!
+
+🔗 Conecte-se comigo e acompanhe minha jornada!
+
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="22px" height="22px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="22px" height="22px"/>
+
+![Guh7004 Stats](https://github-readme-stats.vercel.app/api?username=Guh7004&show_icons=true&theme=transparent)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guh7004&theme=dark)](https://github.com/anuraghazra/github-readme-stats)

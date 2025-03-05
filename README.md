@@ -9,6 +9,6 @@ Atualmente desenvolvendo projetos com HTML e CSS, enquanto mergulho no mundo do 
 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="22px" height="22px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="22px" height="22px"/>
 
-![Guh7004 Stats](https://github-readme-stats.vercel.app/api?username=Guh7004&show_icons=true&theme=transparent)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guh7004&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
